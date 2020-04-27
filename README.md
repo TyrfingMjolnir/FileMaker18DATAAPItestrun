@@ -114,7 +114,7 @@ Available layouts in the hosted file: `PushTest`
 
 General form
 ```
-curl -ksS -X GET  -H "Content-Type: application/json" -H "Authorization: Bearer <<paste token here>>" -d "{}" https://localhost/fmi/data/v1/databases/PushTest/layouts/Table/records | json
+curl -ksSv -X GET  -H "Content-Type: application/json" -H "Authorization: Bearer <<paste token here>>" -d "{}" https://localhost/fmi/data/v1/databases/PushTest/layouts/Table/records
 ```
 
 as pr specific example
