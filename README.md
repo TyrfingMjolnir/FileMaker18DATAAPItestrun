@@ -1,5 +1,6 @@
-# FileMaker 18 DATA API test run
-FileMaker 18 Server test run
+# FileMaker 18 Server test run
+FileMaker 18 DATA API basic queries to get started
+
 
 Optional: To pretty print JSON install json package from npm
 ```
